@@ -1,15 +1,15 @@
-# Platzi Conf Store:
+# Platziconf Store
 
-This project is a "Platzi Conf Store" using React Hooks.
+This project is a **Platziconf Store** using React Hooks. If you want to create a project like this, you can check out this course: [Curso Profesional de React Hooks - 2020](https://platzi.com/home/clases/2118-react-hooks/33466-que-aprenderas-en-el-curso-profesional-de-react-ho/) on Platzi.
 
-## GitHub Pages:
+## Deploy
 
-[Practice - Platzi Conf Store](https://mauriciojcarrillo.github.io/27.curso_profesional_de_react_hooks_platzi/)
+[Platziconf Store](https://mauriciojcarrillo.github.io/platziconf-store-webapp)
 
-## Technologies and concepts:
+## Technologies and concepts
 
 - HTML.
 - CSS.
 - JavaScript.
 - React.
-- Reac Hooks.
+- React Hooks.
